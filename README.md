@@ -1,4 +1,5 @@
 Node Server for Cinema Website
+
 This project aims to create a node server that can handle URL requests for a cinema website. It incorporates CSS styling and images to enhance the user experience.
 
 Objective/s:
